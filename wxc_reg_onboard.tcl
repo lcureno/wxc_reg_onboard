@@ -2821,5 +2821,3 @@ if {$convar} {
 } else {
     puts "\n\n*** *** *** Terminating ... *** *** ***\n"
 }
-
-# *** *** *** Created by Luis Cureno - lcureno@cisco.com *** *** ***
